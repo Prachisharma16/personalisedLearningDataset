@@ -11,7 +11,7 @@ import plotly.express as px
 
 #Loading the dataset
 
-df = pd.read_csv(r"C:\Users\muska\OneDrive\Desktop\personalized_learning_dataset (1).csv")
+df = pd.read_csv("C:/Users/Prachi/OneDrive/Desktop/personalized_learning_dataset.csv")
 
 
 #OBJECTIVE -1: Analyze and Preprocess data by performing Exploratory Data Analysis
